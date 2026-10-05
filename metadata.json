@@ -1,0 +1,19 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "Jakob"
+      }
+    ],
+    "Category": "Window Management",
+    "Description": "Tiler vinduer i tredjedele",
+    "Icon": "preferences-system-windows-script",
+    "Id": "thirds-tiler",
+    "Name": "Thirds Tiler",
+    "ServiceTypes": ["KWin/Script"],
+    "Version": "1.4.0"
+  },
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js",
+  "KPackageStructure": "KWin/Script"
+}
